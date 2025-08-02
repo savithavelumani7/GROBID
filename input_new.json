@@ -1,0 +1,135 @@
+{ "process_id":"VangHendriksen2023",
+"element_outer_html":"<ref>P. Vang Hendriksen, F. Mondi, X. Sun, R. Caldogno, H. L. Frandsen, O. B. Rizvandi, J. Hogh, J. B. Hansen, Ammonia as an SOFC fuel, ECS Transactions 111 (6) (2023). doi:10.1149/11106.2085ecst.</ref>"
+},
+
+{ "process_id":"Buonomano2015",
+"element_outer_html":"<ref>A. Buonomano, F. Calise, M. D. D&#x2019;Accadia, A. Palombo, M. Vicidomini, Hybrid solid oxide fuel cells-gas turbine systems for combined heat and power: A review, Applied Energy 156 (2015) 32&#x2013;85. doi:10.1016/j.apenergy.2015.06.027.</ref>"
+},
+
+{ "process_id":"Waters2015",
+"element_outer_html":"<ref>D. F. Waters, C. P. Cadou, Engine-integrated solid oxide fuel cells for efficient electrical power generation on aircraft, Journal of Power Sources 284 (2015) 588&#x2013;605. doi:10.1016/j.jpowsour.2015.02.108.</ref>"
+},
+
+{ "process_id":"Weber2021",
+"element_outer_html":"<ref>A. Weber, Fuel Flexibility of solid oxide fuel cells, Fuel Cells 21 (5) (2021) 440&#x2013;452.</ref>"
+},
+
+{ "process_id":"Wilson2022",
+"element_outer_html":"<ref>J. A. Wilson, Y. Wang, J. Carroll, J. Raush, G. Arkenberg, E. Dogdibegovic, S. Swartz, D. Daggett, S. Singhal, X. D. Zhou, Hybrid Solid Oxide Fuel Cell/Gas Turbine Model Development for Electric Aviation, Energies 15 (8) (2022). doi:10.3390/en15082885.</ref>"
+},
+
+{ "process_id":"Farhad2010",
+"element_outer_html":"<ref>S. Farhad, F. Hamdullahpur, Conceptual design of a novel ammonia-fuelled portable solid oxide fuel cell system, Journal of Power Sources 195 (10) (2010) 3084&#x2013;3090. doi:10.1016/j.jpowsour.2009.11.115.</ref>"
+},
+
+{ "process_id":"Al-Hamed2019",
+"element_outer_html":"<ref>K. H. Al-Hamed, I. Dincer, A new direct ammonia solid oxide fuel cell and gas turbine based integrated system for electric rail transportation, eTransportation 2 (2019) 100027. doi:10.1016/J.ETRAN.2019.100027.</ref>"
+},
+
+{ "process_id":"Barelli2020",
+"element_outer_html":"<ref>L. Barelli, G. Bidini, G. Cinti, Operation of a solid oxide fuel cell based power system with ammonia as a fuel: Experimental test and system design, Energies 13 (23) (2020). doi:10.3390/en13236173.</ref>"
+},
+
+{ "process_id":"Quach2022",
+"element_outer_html":"<ref>T. Q. Quach, V. T. Giap, D. Keun Lee, T. Pineda Israel, K. Young Ahn, High-efficiency ammonia-fed solid oxide fuel cell systems for distributed power generation, Applied Energy 324 (March) (2022) 119718. doi:10.1016/j.apenergy.2022.119718.</ref>"
+},
+
+{ "process_id":"Teramoto2020",
+"element_outer_html":"<ref>K. Teramoto, H. Iwai, M. Kishimoto, T. Kawaguchi, M. Takemoto, M. Saito, H. Yoshida, Direct reforming of Methane e Ammonia mixed fuel on Ni-YSZ anode of solid oxide fuel cells, International Journal of Hydrogen Energy 45 (15) (2020) 8965&#x2013;8974. doi:10.1016/j.ijhydene.2020.01.073.</ref>"
+},
+
+{ "process_id":"Aziz.2020",
+"element_outer_html":"<ref>M. Aziz, A. TriWijayanta, A. B. D. Nandiyanto, Ammonia as effective hydrogen storage: A review on production, storage and utilization, Energies 13 (12) (2020) 3062. doi:10.3390/en13123062.</ref>"
+},
+
+{ "process_id":"Dias2020",
+"element_outer_html":"<ref>V. Dias, M. Pochet, F. Contino, H. Jeanmart, Energy and Economic Costs of Chemical Storage, Frontiers in Mechanical Engineering 6 (May) (2020). doi:10.3389/fmech.2020.00021.</ref>"
+},
+
+{ "process_id":"Campion2023",
+"element_outer_html":"<ref>N. Campion, H. Nami, P. R. Swisher, P. Vang, M. M&#x00FC;nster, Techno-economic assessment of green ammonia production with different wind and solar potentials, Renewable and Sustainable Energy Reviews 173 (October 2022) (2023) 113057. doi:10.1016/j.rser.2022.113057.</ref>"
+},
+
+{ "process_id":"Lewandowski",
+"element_outer_html":"<ref>M. T. Lewandowski, M. Pasternak, M. Haugsv, T. L&#x00F8;va, ScienceDirect Simulations of ammonia spray evaporation , cooling , mixture formation and combustion in a direct injection compression ignition engine, International Journal of Hydrogen Energy 52 (2024). doi:10.1016/j.ijhydene.2023.06.143.</ref>"
+},
+
+{ "process_id":"ValeraMedina.2018",
+"element_outer_html":"<ref>A. Valera-Medina, H. Xiao, M. Owen-Jones, W. I. David, P. J. Bowen, Ammonia for power, Progress in Energy and Combustion Science 69 (2018) 63&#x2013;102. doi:10.1016/J.PECS.2018.07.001.</ref>"
+},
+
+{ "process_id":"Wehrle2024",
+"element_outer_html":"<ref>L. Wehrle, A. Ashar, O. Deutschmann, R. J. Braun, Evaluating high power density, direct-ammonia SOFC stacks for decarbonizing heavy-duty transportation applications, Applied Energy 372 (November 2023) (2024) 123646. doi:10.1016/j.apenergy.2024.123646.</ref>"
+},
+
+{ "process_id":"Margaritis2015",
+"element_outer_html":"<ref>N. Margaritis, L. Blum, P. Batfalsky, D. Bohmann, S. Ceschini, Q. Fang, D. Federmann, J. Kroemer, R. Peters, R. Steinberger-Wilckens, Status of Light Weight Cassette Design of SOFC, ECS Transactions 68 (1) (2015) 209&#x2013;220. doi:10.1149/06801.0209ecst.</ref>"
+},
+
+{ "process_id":"Wehrle2022",
+"element_outer_html":"<ref>L. Wehrle, Y. Wang, P. Boldrin, N. P. Brandon, O. Deutschmann, A. Banerjee, Optimizing Solid Oxide Fuel Cell Performance to Re-evaluate Its Role in the Mobility Sector, ACS Environmental Au 2 (1) (2022) 42&#x2013;64. doi:10.1021/acsenvironau.1c00014.</ref>"
+},
+
+{ "process_id":"Wehrle2022b",
+"element_outer_html":"<ref>L. Wehrle, D. Schmider, J. Dailly, A. Banerjee, O. Deutschmann, Benchmarking solid oxide electrolysis cell-stacks for industrial Power-to-Methane systems via hierarchical multi-scale modelling, Applied Energy 317 (2022) 119143. doi:10.1016/j.apenergy.2022.119143.</ref>"
+},
+
+{ "process_id":"Banerjee2018",
+"element_outer_html":"<ref>A. Banerjee, Y. Wang, J. Diercks, O. Deutschmann, Hierarchical modeling of solid oxide cells and stacks producing syngas via H<sub>2</sub>O/CO<sub>2</sub> Co-electrolysis for industrial applications, Applied Energy 230 (2018) 996&#x2013;1013. doi:10.1016/j.apenergy.2018.08.122.</ref>"
+},
+
+{ "process_id":"Appari2011",
+"element_outer_html":"<ref>S. Appari, V. M. Janardhanan, S. Jayanti, L. Maier, S. Tischer, O. Deutschmann, Micro-kinetic modeling of NH3 decomposition on Ni and its application to solid oxide fuel cells, Chemical Engineering Science 66 (21) (2011) 5184&#x2013;5191. doi:10.1016/j.ces.2011.07.007.</ref>"
+},
+
+{ "process_id":"McLarty2014",
+"element_outer_html":"<ref>D. McLarty, J. Brouwer, S. Samuelsen, Fuel cell-gas turbine hybrid system design part I: Steady state performance, Journal of Power Sources 257 (2014) 412&#x2013;420. doi:10.1016/j.jpowsour.2013.11.122.</ref>"
+},
+
+{ "process_id":"VanBiert2018",
+"element_outer_html":"<ref>L. van Biert, T. Woudstra, M. Godjevac, K. Visser, P. V. Aravind, A thermodynamic comparison of solid oxide fuel cell-combined cycles, Journal of Power Sources 397 (June) (2018) 382&#x2013;396. doi:10.1016/j.jpowsour.2018.07.035.</ref>"
+},
+
+{ "process_id":"Elkafas2023",
+"element_outer_html":"<ref>A. G. Elkafas, M. Rivarolo, E. Gadduci, L. Magistri, A. F. Massardo, Fuel Cell Systems for Maritime : A Review of Research Development, Commercial Products, Applications and Perspectives, Processes 11 (97) (2023).</ref>"
+},
+
+{ "process_id":"Boldrin2019",
+"element_outer_html":"<ref>P. Boldrin, N. P. Brandon, Progress and outlook for solid oxide fuel cells for transportation applications, Nature Catalysis 2 (7) (2019) 571&#x2013;577. doi:10.1038/s41929-019-0310-y.</ref>"
+},
+
+{ "process_id":"Minh2020",
+"element_outer_html":"<ref>N. Q. Minh, Solid Oxide Fuel Cell (SOFC) Technology For Powering the U.S. Army of the Future, Tech. Rep. March (2020).</ref>"
+},
+
+{ "process_id":"Zhu2023",
+"element_outer_html":"<ref>H. Zhu, A. Ashar, R. Kee, R. Braun, G. Jackson, Physics-based model to represent the membrane-electrode assemblies of solid-oxide fuel cells based gadolium-doped ceria, Journal of The Electrochemical Society 170 (10) (2023).</ref>"
+},
+
+{ "process_id":"Nemati2024",
+"element_outer_html":"<ref>A. Nemati, O. B. Rizvandi, F. Mondi, H. L. Frandsen, Detailed 3D multiphysics modeling of an ammonia-fueled solid oxide fuel cell: Anode off-gas recirculation and Ni nitriding degradation, Energy Conversion and Management 308 (April) (2024) 118396. doi:10.1016/j.enconman.2024.118396.</ref>"
+},
+
+{ "process_id":"Baba2020",
+"element_outer_html":"<ref>S. Baba, N. Ohguri, Y. Suzuki, K. Murakami, Evaluation of a variable flow ejector for anode gas circulation in a 50-kW class SOFC, International Journal of Hydrogen Energy 45 (19) (2020) 11297&#x2013;11308. doi:10.1016/j.ijhydene.2020.02.039.</ref>"
+},
+
+{ "process_id":"Jia2011",
+"element_outer_html":"<ref>J. Jia, Q. Li, M. Luo, L. Wei, A. Abudula, Effects of gas recycle on performance of solid oxide fuel cell power systems, Energy 36 (2) (2011) 1068&#x2013;1075. doi:10.1016/j.energy.2010.12.001.</ref>"
+},
+
+{ "process_id":"Rizvandi2024",
+"element_outer_html":"<ref>O. B. Rizvandi, A. Nemati, H. L. Frandsen, A numerical study of fuel recirculation in ammonia-fueled solid oxide fuel cell stacks, International Journal of Hydrogen Energy 53 (October 2023) (2024) 792&#x2013;806. doi:10.1016/j.ijhydene.2023.12.139.</ref>"
+},
+
+{ "process_id":"Halinen2012",
+"element_outer_html":"<ref>M. Halinen, O. Thomann, J. Kiviaho, Effect of anode off-gas recycling on reforming of natural gas for solid oxide fuel cell systems, Fuel Cells 12 (5) (2012) 754&#x2013;760. doi:10.1002/fuce.201200047.</ref>"
+},
+
+{ "process_id":"Saebea2016",
+"element_outer_html":"<ref>D. Saebea, S. Authayanun, Y. Patcharavorachot, A. Arpornwichanop, Effect of anode-cathode exhaust gas recirculation on energy recuperation in a solid oxide fuel cell-gas turbine hybrid power system, Energy 94 (2016) 218&#x2013;232. doi:10.1016/j.energy.2015.10.138.</ref>"
+},
+
+{ "process_id":"Cunningham1974",
+"element_outer_html":"<ref>R. G. Cunningham, R. J. Dopkin, Jit breakup and mixing throat lengts for the liquid jit gas pump, Journal of Fluids Engineering, Transactions of the ASME 96 (3) (1974) 216&#x2013;226. doi:10.1115/1.3447144.</ref>"
+}

@@ -1,0 +1,208 @@
+{ "process_id":"EIA",
+"element_outer_html":"<ref>Eia, use of electricity explained. https://www.eia.gov/energyexplained.</ref>"
+},
+
+{ "process_id":"Demandresponse",
+"element_outer_html":"<ref>US Department of Energy. Benefits of demand response in electricity markets and recommendations for achieving them., 2006.</ref>",
+"structured_ref":"<ref>US Department of Energy. Benefits of demand response in electricity markets and recommendations for achieving them., 2006.</ref>"
+},
+
+{ "process_id":"MENG2021762",
+"element_outer_html":"<ref>Qinglong Meng, Yang Li, Xiaoxiao Ren, Chengyan Xiong, Wenqiang Wang, and Jiewei You. A demand-response method to balance electric power-grids via hvac systems using active energy-storage: Simulation and on-site experiment. <i>Energy Reports</i>, 7:762&#x2013;777, 2021.</ref>"
+},
+
+{ "process_id":"Sanchez02112022",
+"element_outer_html":"<ref>Jerson Sanchez Zhimin Jiang and Jie Cai. Modelling and mitigating lifetime impact of building demand responsive control of heating, ventilation and air-conditioning systems. <i>Journal of Building Performance Simulation</i>, 15(6):771&#x2013;787, 2022.</ref>"
+},
+
+{ "process_id":"YAO2021107952",
+"element_outer_html":"<ref>Ye Yao and Divyanshu Kumar Shekhar. State of the art review on model predictive control mpc in heating ventilation and air-conditioning hvac field. <i>Building and Environment</i>, 200:107952, 2021.</ref>"
+},
+
+{ "process_id":"MPCarticle",
+"element_outer_html":"<ref>Lukas Hewing, Kim P. Wabersich, Marcel Menner, and Melanie N. Zeilinger. Learning-based model predictive control: Toward safe learning in control. <i>Annual Review of Control, Robotics, and Autonomous Systems</i>, 3(1):269&#x2013;296, 2020.</ref>"
+},
+
+{ "process_id":"DRGONA2020190",
+"element_outer_html":"<ref>Ján Drgoňa, Javier Arroyo, Iago Cupeiro Figueroa, David Blum, Krzysztof Arendt, Donghun Kim, Enric Perarnau Ollé, Juraj Oravec, Michael Wetter, Draguna L. Vrabie, and Lieve Helsen. All you need to know about model predictive control for buildings. <i>Annual Reviews in Control</i>, 50:190&#x2013;232, 2020.</ref>"
+},
+
+{ "process_id":"aaa5717458",
+"element_outer_html":"<ref>Frauke Oldewurtel, Andreas Ulbig, Alessandra Parisio, Göran Andersson, and Manfred Morari. Reducing peak electricity demand in building climate control using real-time pricing and model predictive control. In <i>49th IEEE Conference on Decision and Control (CDC)</i>, pages 1927&#x2013;1932, 2010.</ref>"
+},
+
+{ "process_id":"aaa8820077",
+"element_outer_html":"<ref>Divya Tejaswini Vedullapalli, Ramtin Hadidi, and Bill Schroeder. Combined hvac and battery scheduling for demand response in a building. <i>IEEE Transactions on Industry Applications</i>, 55(6):7008&#x2013;7014, 2019.</ref>"
+},
+
+{ "process_id":"aaa8810854",
+"element_outer_html":"<ref>Olivier Van Cutsem, Maher Kayal, David Blum, and Marco Pritoni. Comparison of mpc formulations for building control under commercial time-of-use tariffs. In <i>2019 IEEE Milan PowerTech</i>, pages 1&#x2013;6, 2019.</ref>"
+},
+
+{ "process_id":"savingscai",
+"element_outer_html":"<ref>Donghun Kim Jie Cai, James E. Braun and Jianghai Hu. General approaches for determining the savings potential of optimal control for cooling in commercial buildings having both energy and demand charges. <i>Science and Technology for the Built Environment</i>, 22(6):733&#x2013;750, 2016.</ref>"
+},
+
+{ "process_id":"HAN2019101748",
+"element_outer_html":"<ref>Mengjie Han, Ross May, Xingxing Zhang, Xinru Wang, Song Pan, Da Yan, Yuan Jin, and Liguo Xu. A review of reinforcement learning methodologies for controlling occupant comfort in buildings. Sustainable Cities and Society, 51, 101748, 2019.</ref>"
+},
+
+{ "process_id":"Henze",
+"element_outer_html":"<ref>Gregor P. Henze and Jobst Schoenmann. Evaluation of reinforcement learning control for thermal energy storage systems. <i>HVAC&#x0026;R Research</i>, 9(3):259&#x2013;275, 2003.</ref>"
+},
+
+{ "process_id":"LiuHenze2006",
+"element_outer_html":"<ref>Simeng Liu and Gregor Henze. Experimental analysis of simulated reinforcement learning control for active and passive building thermal storage inventory –part 1: Theoretical foundation. <i>Energy and Buildings</i>, 38:142&#x2013;147, 02 2006.</ref>"
+},
+
+{ "process_id":"LiuHenze2007",
+"element_outer_html":"<ref>Simeng Liu and Gregor Henze. Evaluation of reinforcement learning for optimal control of building active and passive thermal storage inventory. <i>Journal of Solar Energy Engineering-transactions of The Asme - J SOL ENERGY ENG</i>, 129, 05 2007.</ref>"
+},
+
+{ "process_id":"Wei2017",
+"element_outer_html":"<ref>Tianshu Wei, Yanzhi Wang, and Qi Zhu. Deep reinforcement learning for building hvac control. In <i>2017 54th ACM/EDAC/IEEE Design Automation Conference (DAC)</i>, pages 1&#x2013;6, 2017.</ref>"
+},
+
+{ "process_id":"Ahn2020",
+"element_outer_html":"<ref>Ki Uhn Ahn and Cheol Soo Park. Application of deep q-networks for model-free optimal control balancing between different hvac systems. <i>Science and Technology for the Built Environment</i>, 26(1):61&#x2013;74, 2020.</ref>"
+},
+
+{ "process_id":"JIANG2021110833",
+"element_outer_html":"<ref>Zhanhong Jiang, Michael J. Risbeck, Vish Ramamurti, Sugumar Murugesan, Jaume Amores, Chenlu Zhang, Young M. Lee, and Kirk H. Drees. Building hvac control with reinforcement learning for reduction of energy cost and demand charge. <i>Energy and Buildings</i>, 239:110833, 2021.</ref>"
+},
+
+{ "process_id":"DU2021116117",
+"element_outer_html":"<ref>Yan Du, Helia Zandi, Olivera Kotevska, Kuldeep Kurte, Jeffery Munk, Kadir Amasyali, Evan Mckee, and Fangxing Li. Intelligent multi-zone residential hvac control strategy based on deep reinforcement learning. <i>Applied Energy</i>, 281:116117, 2021.</ref>"
+},
+
+{ "process_id":"YU2020",
+"element_outer_html":"<ref>Liang Yu, Weiwei Xie, Di Xie, Yulong Zou, Dengyin Zhang, Zhixin Sun, Linghua Zhang, Yue Zhang, and Tao Jiang. Deep reinforcement learning for smart home energy management. <i>IEEE Internet of Things Journal</i>, 7(4):2751&#x2013;2762, 2020.</ref>"
+},
+
+{ "process_id":"A3C",
+"element_outer_html":"<ref>Xiangyu Zhang, Dave Biagioni, Mengmeng Cai, Peter Graf, and Saifur Rahman. An edge-cloud integrated solution for buildings demand response using reinforcement learning. <i>IEEE Transactions on Smart Grid</i>, PP:1&#x2013;1, 08 2020.</ref>"
+},
+
+{ "process_id":"su12187727",
+"element_outer_html":"<ref>Kuldeep Kurte, Jeffrey Munk, Olivera Kotevska, Kadir Amasyali, Robert Smith, Evan McKee, Yan Du, Borui Cui, Teja Kuruganti, and Helia Zandi. Evaluating the adaptability of reinforcement learning based hvac control for residential houses. <i>Sustainability</i>, 12(18), 2020.</ref>"
+},
+
+{ "process_id":"Li2020",
+"element_outer_html":"<ref>Hepeng Li, Zhiqiang Wan, and Haibo He. Real-time residential demand response. <i>IEEE Transactions on Smart Grid</i>, 11(5):4144&#x2013;4154, 2020.</ref>"
+},
+
+{ "process_id":"HEMSTRPO",
+"element_outer_html":"<ref>Kuthsav Thattai, Jayashri Ravishankar, and Chaojie Li. Consumer-centric home energy management system using trust region policy optimization- based multi-agent deep reinforcement learning. In <i>2023 IEEE Belgrade PowerTech</i>, pages 1&#x2013;6, 2023.</ref>"
+},
+
+{ "process_id":"zhang2020gridinteractive",
+"element_outer_html":"<ref>Xiangyu Zhang, Rohit Chintala, Andrey Bernstein, Peter Graf, and Xin Jin. Grid-interactive multi-zone building control using reinforcement learning with global-local policy search, 2020.</ref>"
+},
+
+{ "process_id":"AZUATALAM2020100020",
+"element_outer_html":"<ref>Donald Azuatalam, Wee-Lih Lee, Frits de Nijs, and Ariel Liebman. Reinforcement learning for whole-building hvac control and demand response. <i>Energy and AI</i>, 2:100020, 2020.</ref>"
+},
+
+{ "process_id":"covidppo",
+"element_outer_html":"<ref>Ashkan Haji Hosseinloo, Saleh Nabi, Anette Hosoi, and Munther A. Dahleh. Data-driven control of covid-19 in buildings: A reinforcement-learning approach. <i>IEEE Transactions on Automation Science and Engineering</i>, pages 1&#x2013;0, 2023.</ref>"
+},
+
+{ "process_id":"safenavi",
+"element_outer_html":"<ref>Felippe Schmoeller Roza, Hassan Rasheed, Karsten Roscher, Xiangyu Ning, and Stephan Günnemann. Safe robot navigation using constrained hierarchical reinforcement learning. In <i>2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)</i>, pages 737&#x2013;742, 2022.</ref>"
+},
+
+{ "process_id":"ConstEV",
+"element_outer_html":"<ref>Hepeng Li, Zhiqiang Wan, and Haibo He. Constrained ev charging scheduling based on safe deep reinforcement learning. <i>IEEE Transactions on Smart Grid</i>, 11(3):2427&#x2013;2439, 2020.</ref>"
+},
+
+{ "process_id":"uavswarm",
+"element_outer_html":"<ref>Yu-Jia Chen, Deng-Kai Chang, and Cheng Zhang. Autonomous tracking using a swarm of uavs: A constrained multi-agent reinforcement learning approach. <i>IEEE Transactions on Vehicular Technology</i>, 69(11):13702&#x2013;13717, 2020.</ref>"
+},
+
+{ "process_id":"Cai_JBPSA",
+"element_outer_html":"<ref>Jie Cai and James Braun. An inverse hygrothermal model for multi-zone buildings. <i>Journal of Building Performance Simulation</i>, 9(5):510&#x2013;528, 2016.</ref>"
+},
+
+{ "process_id":"cai2015low",
+"element_outer_html":"<ref>Jie Cai. <i>A low cost multi-agent control approach for building energy system management</i>. PhD thesis, Purdue University, 2015.</ref>"
+},
+
+{ "process_id":"Cai17082016",
+"element_outer_html":"<ref>Jie Cai, James E. Braun, Donghun Kim, and Jianghai Hu and. General approaches for determining the savings potential of optimal control for cooling in commercial buildings having both energy and demand charges. <i>Science and Technology for the Built Environment</i>, 22(6):733&#x2013;750, 2016.</ref>"
+},
+
+{ "process_id":"aaa8062591",
+"element_outer_html":"<ref>Jie Cai, Hao Zhang, Donghun Kim, James E. Braun, and Jianghai Hu. Convex optimization-based control of sustainable communities with on-site photovoltaic (pv) and batteries. In <i>2017 IEEE Conference on Control Technology and Applications (CCTA)</i>, pages 1007&#x2013;1012, 2017.</ref>"
+},
+
+{ "process_id":"Sutton1998",
+"element_outer_html":"<ref>Richard S. Sutton and Andrew G. Barto. <i>Reinforcement Learning: An Introduction</i>. The MIT Press, second edition, 2018.</ref>"
+},
+
+{ "process_id":"POMDP",
+"element_outer_html":"<ref>Richard D. Smallwood and Edward J. Sondik. The optimal control of partially observable markov processes over a finite horizon. <i>Operations Research</i>, 21(5):1071&#x2013;1088, 1973.</ref>"
+},
+
+{ "process_id":"mnih2013playing",
+"element_outer_html":"<ref>Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. Playing atari with deep reinforcement learning, 2013.</ref>"
+},
+
+{ "process_id":"PGrob",
+"element_outer_html":"<ref>Jan Peters and Stefan Schaal. Policy gradient methods for robotics. In <i>2006 IEEE/RSJ International Conference on Intelligent Robots and Systems</i>, pages 2219&#x2013;2225, 2006.</ref>"
+},
+
+{ "process_id":"schulman2018highdimensional",
+"element_outer_html":"<ref>John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, and Pieter Abbeel. High-dimensional continuous control using generalized advantage estimation, 2018.</ref>"
+},
+
+{ "process_id":"VPG1999",
+"element_outer_html":"<ref>Richard S. Sutton, David McAllester, Satinder Singh, and Yishay Mansour. Policy gradient methods for reinforcement learning with function approximation. In <i>Proceedings of the 12th International Conference on Neural Information Processing Systems</i>, NIPS&#x2019;99, page 1057–1063, Cambridge, MA, USA, 1999. MIT Press.</ref>"
+},
+
+{ "process_id":"TRPO",
+"element_outer_html":"<ref>John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, and Pieter Abbeel. Trust region policy optimization. <i>CoRR</i>, abs/1502.05477, 2015.</ref>"
+},
+
+{ "process_id":"DBLP:journals/corr/SchulmanWDRK17",
+"element_outer_html":"<ref>John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. Proximal policy optimization algorithms. <i>CoRR</i>, abs/1707.06347, 2017.</ref>"
+},
+
+{ "process_id":"Altman",
+"element_outer_html":"<ref><i>Constrained Markov Decision Processes</i>. 1999.</ref>"
+},
+
+{ "process_id":"CPO",
+"element_outer_html":"<ref>Joshua Achiam, David Held, Aviv Tamar, and Pieter Abbeel. Constrained policy optimization. <i>CoRR</i>, abs/1705.10528, 2017.</ref>"
+},
+
+{ "process_id":"BPU",
+"element_outer_html":"<ref>El Paso Electric. Small general service rate. https://www.epelectric.com/customers/rates-and-regulations/business-rates-and-information/texas-rate-tariffs-rules-and-regulations/texas-rate-tariffs, November 2021.</ref>"
+},
+
+{ "process_id":"cvx",
+"element_outer_html":"<ref>Michael Grant and Stephen Boyd. CVX: Matlab software for disciplined convex programming, version 2.1. http://cvxr.com/cvx, March 2014.</ref>"
+},
+
+{ "process_id":"Gurobi",
+"element_outer_html":"<ref>Gurobi solver. Online at https://www.gurobi.com/.</ref>"
+},
+
+{ "process_id":"stable-baselines3",
+"element_outer_html":"<ref>Antonin Raffin, Ashley Hill, Adam Gleave, Anssi Kanervisto, Maximilian Ernestus, and Noah Dormann. Stable-baselines3: Reliable reinforcement learning implementations. <i>Journal of Machine Learning Research</i>, 22(268):1&#x2013;8, 2021.</ref>"
+},
+
+{ "process_id":"pytorch",
+"element_outer_html":"<ref>Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan, Edward Yang, Zachary DeVito, Zeming Lin, Alban Desmaison, Luca Antiga, and Adam Lerer. Automatic differentiation in pytorch. 2017.</ref>"
+},
+
+{ "process_id":"recht2018tour",
+"element_outer_html":"<ref>Benjamin Recht. A tour of reinforcement learning: The view from continuous control, 2018.</ref>"
+},
+
+{ "process_id":"Xu_2020",
+"element_outer_html":"<ref>Shichao Xu, Yixuan Wang, Yanzhi Wang, Zheng O&#x0027;Neill, and Qi Zhu. One for many. In <i>Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i>. ACM, nov 2020.</ref>"
+},
+
+{ "process_id":"DEY2023100255",
+"element_outer_html":"<ref>Sourav Dey, Thibault Marzullo, Xiangyu Zhang, and Gregor Henze. Reinforcement learning building control approach harnessing imitation learning. <i>Energy and AI</i>, 14:100255, 2023.</ref>"
+}
